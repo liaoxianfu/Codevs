@@ -11,7 +11,7 @@ class base
 public:
 	base();
 	virtual ~base();
-
+	//~base();
 private:
 	int *a;
 };
