@@ -7,6 +7,7 @@
 *	第一个complex是返回值类型是complex类 complex::operator+(const complex &A) const	*
 *	一个成员函数相关联(complex::operator+)												*
 *	并将该操作符与其成员对象（操作数）一起使用((const complex &A) const					*
+*	重载并不能改变原来操作符的优先级														*
 *************************************************************************************/
 using namespace std;
 
@@ -33,6 +34,14 @@ private:
 
 
 
+//************************************
+// Method:    complex
+// FullName:  complex::complex
+// Access:    public 
+// Returns:   
+// Qualifier:Yes
+// Describe:这是一个构造函数
+//************************************
 complex::complex()
 {
 	rel = 0.0;
