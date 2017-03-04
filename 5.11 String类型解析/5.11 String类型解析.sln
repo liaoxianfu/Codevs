@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30501.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "5.11 String类型解析", "5.11 String类型解析\5.11 String类型解析.vcxproj", "{AA5A01CB-A87F-43A6-B498-F791F37B8C0D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AA5A01CB-A87F-43A6-B498-F791F37B8C0D}.Debug|Win32.ActiveCfg = Debug|Win32
+		{AA5A01CB-A87F-43A6-B498-F791F37B8C0D}.Debug|Win32.Build.0 = Debug|Win32
+		{AA5A01CB-A87F-43A6-B498-F791F37B8C0D}.Release|Win32.ActiveCfg = Release|Win32
+		{AA5A01CB-A87F-43A6-B498-F791F37B8C0D}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
